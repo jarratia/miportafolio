@@ -1,0 +1,57 @@
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+.menu-footer{
+	background: #660066;
+}
+
+.logo{
+	font-family: 'Lobster', sans-serif;
+	font-weight: bold;
+	font-size: 2rem;
+}
+
+.anclas{
+	color: #ffffff;
+}
+
+.cabecera div img{
+	width: 100%;
+}
+
+/*.espaciado-footer{
+	padding: 100px;
+}*/
+
+.mistrabajos{
+	max-width: 100%;
+}
+
+footer{
+	color: #ffffff;
+}
+
+h1{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+
+h2{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+
+h3{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
+
+li.data-target{
+	background: red;
+}
