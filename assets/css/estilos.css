@@ -20,6 +20,10 @@
 	width: 100%;
 }
 
+.anclas:hover{
+	color: #eeeeee;
+}
+
 /*.espaciado-footer{
 	padding: 100px;
 }*/
@@ -61,9 +65,14 @@ ol.carousel-indicators li{
 	color: #ffffff;
 }
 
+.rrss:hover{
+	color: #eeeeee;
+}
+
 .nombre-footer h3{
 	font-family: 'Lobster', sans-serif;
 	font-weight: bold;
 	color: #ffffff;
 	text-decoration: none;
 }
+
