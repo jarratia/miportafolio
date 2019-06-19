@@ -3,7 +3,7 @@
 }
 
 .menu-footer{
-	background: #660066;
+	background: #ff9d76;
 }
 
 .logo{
@@ -52,6 +52,18 @@ p{
 	font-weight: 400;
 }
 
-li.data-target{
-	background: red;
+ol.carousel-indicators li{
+	background: #000000;
+	border-radius: 50%;
+}
+
+.rrss{
+	color: #ffffff;
+}
+
+.nombre-footer h3{
+	font-family: 'Lobster', sans-serif;
+	font-weight: bold;
+	color: #ffffff;
+	text-decoration: none;
 }
